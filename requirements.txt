@@ -1,1 +1,4 @@
 scikit-learn
+python 3
+NumPy
+jupyter notebook
